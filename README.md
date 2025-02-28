@@ -66,12 +66,14 @@ python predict.py --input "Your complaint text here"
 ## **Screenshot**
 
 Model : Multinomial Naive Bayes
+
 ![image](https://github.com/user-attachments/assets/296295c7-b97f-4151-bba6-4c36e06c74a8)
 ![image](https://github.com/user-attachments/assets/6a19df81-b787-4c1b-9f7d-1435e16ec35e)
 
 
 
 Model : Logistic Regression
+
 ![image](https://github.com/user-attachments/assets/409e59dc-0634-47de-b5ad-2926fff29ba1)
 ![image](https://github.com/user-attachments/assets/34934e08-c38d-4346-a7cf-3014f80cfa36)
 
